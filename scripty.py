@@ -14,3 +14,4 @@ localiza = carregamento_dados("RENT3.SA")
 
 
 weg.head()
+#teste
